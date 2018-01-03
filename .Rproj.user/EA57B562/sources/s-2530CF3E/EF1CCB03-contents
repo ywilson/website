@@ -1,0 +1,16 @@
+---
+title: "mySite"
+author: "Yasmeen Wilson"
+date: "January 3, 2018"
+output: html_document
+---
+
+```{r}
+blogdown::new_site(theme = "digitalcraftsman/hugo-agency-theme", theme_example = TRUE)
+```
+
+
+```{r}
+blogdown::serve_site()
+```
+

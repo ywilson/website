@@ -1,0 +1,18 @@
+"0","blogdown::serve_site()"
+"2","You should change the ""baseurl"" option in config.toml from https://example.org/ to your actual domain; if you do not have a domain, set ""baseurl"" to ""/"""
+"1","Error: Unable to find theme Directory: C:\Users\ywils\website\themes\hugo-agency-theme
+"
+"1","
+"
+"2","running command '""C:\Users\ywils\AppData\Roaming\Hugo\hugo.exe"" -b / -D -F -d ""public"" -t hugo-agency-theme' had status 65535"
+"1","Error: Unable to find theme Directory: C:\Users\ywils\website\themes\hugo-agency-theme
+"
+"1","
+"
+"2","running command '""C:\Users\ywils\AppData\Roaming\Hugo\hugo.exe"" -b / -D -F -d ""public"" -t hugo-agency-theme' had status 65535"
+"1","The system cannot find the path specified.
+"
+"2","running command 'C:\WINDOWS\system32\cmd.exe /c ""C:\Users\ywils\AppData\Roaming\Hugo\hugo.exe"" -b / -D -F -d ""public"" -t hugo-agency-theme' had status 1"
+"2","Error in shell(cmd, mustWork = TRUE, intern = intern) : 
+  '""C:\Users\ywils\AppData\Roaming\Hugo\hugo.exe"" -b / -D -F -d ""public"" -t hugo-agency-theme' execution failed with error code 1
+"
