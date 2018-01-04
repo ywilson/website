@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  description = '<!--[-->Aspiring Data Scientist & Current Undergraduate Student (Gr. Dec 2018) at the New College of Florida<!--]--><br />
+  description = '<!--[-->Aspiring Data Scientist & Current Undergraduate Student (Gr. Dec 2018)<!--]--><br />
                 <!--[-->with interests in all things related to data<!--]-->'
   logo = "fa-diamond"
   copyright = "Untitled"
