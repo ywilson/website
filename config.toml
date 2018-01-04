@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://yasmeenwilson.netlify.com"
 title = "Yasmeen Wilson"
 theme = "dimension"
 languageCode = "en-us"
